@@ -1,0 +1,5 @@
+Observations on the purchase data:
+- The player-base is overwhelmingly male and overwhelmingly college-age or younger.
+- Women and players with other or undisclosed gender spend on average about 10% more per player than male players.
+- For the most part, there is no strong relationship between age and amount spent overall.
+- The average player does not make many purchases -- the overwhelming majority make only one and the largest number of purchases made by one person is 5.
